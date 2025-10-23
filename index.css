@@ -697,14 +697,16 @@ h3{
     }
 
     div.cont{
-      margin-top: 140%
+      margin-top: 100%
     }
     section.section3{
-      margin-top: 260%;
+      margin-top: 230%;
       width: 80%;
       margin-left: 2%;
-      
-      
+    }
+
+    div.container{
+        margin-top: 20%;
     }
     .footer-page {
         flex-direction: column;
